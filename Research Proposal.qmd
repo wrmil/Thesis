@@ -7,11 +7,12 @@ editor: visual
 
 ## Background and reasoning 
 
-What's relevant and
-What's not
+What's relevant and what's not
 
 So
 what?
+
+comparison to other lit
 
 ## Research methodology
 
@@ -20,6 +21,18 @@ what?
 #### - approach
 
 #### - methods
+
+-   description of random forests and application to this work
+
+    -   advantages
+
+    -   disadvantages
+
+-   shiny
+
+    -   advantages
+
+    -   disadvantages
 
 ## Plan of work
 
