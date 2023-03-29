@@ -7,10 +7,38 @@ editor: visual
 
 ## Background and reasoning 
 
+What's relevant and
+What's not
+
+So
+what?
+
 ## Research methodology
+
+#### - resources to be used
+
+#### - approach
+
+#### - methods
 
 ## Plan of work
 
+#### timeline 
+
+-   develop RF model
+
+-   analysis results
+
+-   implement spatially in shiny
+
+-   comparison tool in shiny
+
 ## Preliminary research work completed
+
+#### description of data used 
+
+preliminary analysis
+
+simulation
 
 ## Conclusion and future direction 
