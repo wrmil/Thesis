@@ -1,0 +1,18 @@
+---
+title: "Random Forest Implimentation"
+---
+
+Load Packages
+
+```{r}
+library(tidyverse)
+library(randomForest)
+```
+
+Import data
+
+```{r}
+Raw_Data <- read_csv("~/University/Thesis/Raw Data/sample_estimate.csv")
+```
+
+Data prep
